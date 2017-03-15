@@ -48,3 +48,4 @@ build/*
 profile
 xcschememanagement.plist
 *.xcscheme
+*.xcbkptlist
